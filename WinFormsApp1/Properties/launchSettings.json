@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WinFormsApp1": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ADMIN_PASSWORD": "1234"
+      }
+    }
+  }
+}
